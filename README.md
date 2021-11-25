@@ -4,11 +4,16 @@
  
  ### Key Features.
  Able to select tasks
- Cancel tasks when done!!!
+ Cancel tasks when done!!!.
  
- ###Credits
+ ### Credits.
  A youtube video helped me create this amazing app.
  
  ### Short comings
  The app is not responsive.
  Ive not personally added any new stuff though.
+ 
+ ### Hosting.
+ I've hosted on netlify.
+ Click on the link below to see my app in usage..
+ https://bel-reminder.netlify.app/
